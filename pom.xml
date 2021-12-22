@@ -15,49 +15,14 @@
     </properties>
 
     <dependencies>
+
     </dependencies>
 
     <repositories>
-        <!--        <repository>-->
-        <!--            <releases>-->
-        <!--                <enabled>true</enabled>-->
-        <!--            </releases>-->
-        <!--            <snapshots>-->
-        <!--                <enabled>false</enabled>-->
-        <!--            </snapshots>-->
-        <!--            <id>bintray.kotlin.eap</id>-->
-        <!--            <name>Bintray Kotlin EAP Repository</name>-->
-        <!--            <url>https://dl.bintray.com/kotlin/kotlin-eap</url>-->
-        <!--        </repository>-->
+
     </repositories>
 
     <build>
-        <!--        <plugins>-->
-        <!--            <plugin>-->
-        <!--                <groupId>org.jetbrains.kotlin</groupId>-->
-        <!--                <artifactId>kotlin-maven-plugin</artifactId>-->
-        <!--                <version>${kotlin.version}</version>-->
-        <!--                <executions>-->
-        <!--                    <execution>-->
-        <!--                        <id>compile</id>-->
-        <!--                        <phase>compile</phase>-->
-        <!--                        <goals>-->
-        <!--                            <goal>compile</goal>-->
-        <!--                        </goals>-->
-        <!--                    </execution>-->
-        <!--                    <execution>-->
-        <!--                        <id>test-compile</id>-->
-        <!--                        <phase>test-compile</phase>-->
-        <!--                        <goals>-->
-        <!--                            <goal>test-compile</goal>-->
-        <!--                        </goals>-->
-        <!--                    </execution>-->
-        <!--                </executions>-->
-        <!--                <configuration>-->
-        <!--                    <jvmTarget>1.8</jvmTarget>-->
-        <!--                </configuration>-->
-        <!--            </plugin>-->
-        <!--        </plugins>-->
     </build>
 
 </project>
